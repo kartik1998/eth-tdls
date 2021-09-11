@@ -76,21 +76,14 @@
   "ast": {
     "absolutePath": "/Users/kartik/Desktop/eth-tdls/contracts/TodoList.sol",
     "exportedSymbols": {
-      "TodoList": [
-        76
-      ]
+      "TodoList": [76]
     },
     "id": 77,
     "nodeType": "SourceUnit",
     "nodes": [
       {
         "id": 34,
-        "literals": [
-          "solidity",
-          "^",
-          "0.5",
-          ".0"
-        ],
+        "literals": ["solidity", "^", "0.5", ".0"],
         "nodeType": "PragmaDirective",
         "src": "0:23:1"
       },
@@ -101,9 +94,7 @@
         "documentation": null,
         "fullyImplemented": true,
         "id": 76,
-        "linearizedBaseContracts": [
-          76
-        ],
+        "linearizedBaseContracts": [76],
         "name": "TodoList",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -630,21 +621,14 @@
   "legacyAST": {
     "absolutePath": "/Users/kartik/Desktop/eth-tdls/contracts/TodoList.sol",
     "exportedSymbols": {
-      "TodoList": [
-        76
-      ]
+      "TodoList": [76]
     },
     "id": 77,
     "nodeType": "SourceUnit",
     "nodes": [
       {
         "id": 34,
-        "literals": [
-          "solidity",
-          "^",
-          "0.5",
-          ".0"
-        ],
+        "literals": ["solidity", "^", "0.5", ".0"],
         "nodeType": "PragmaDirective",
         "src": "0:23:1"
       },
@@ -655,9 +639,7 @@
         "documentation": null,
         "fullyImplemented": true,
         "id": 76,
-        "linearizedBaseContracts": [
-          76
-        ],
+        "linearizedBaseContracts": [76],
         "name": "TodoList",
         "nodeType": "ContractDefinition",
         "nodes": [

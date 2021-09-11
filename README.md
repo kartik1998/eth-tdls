@@ -4,6 +4,7 @@
 - setup `truffle init`
 
 ## Truffle migrate / console
+
 - `truffle migrate`
 - `truffle console`
 
