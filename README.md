@@ -3,7 +3,8 @@
 - truffle@5.0.2
 - setup `truffle init`
 
-## Truffle console
+## Truffle migrate / console
+- `truffle migrate`
 - `truffle console`
 
 ```
